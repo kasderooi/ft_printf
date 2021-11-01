@@ -19,8 +19,8 @@ A function that:
 > This function can be used by the included main. Run the following commands:
 
 ```shell
-git clone https://github.com/kasderooi/Portfolio.git
-cd Portfolio/ft_printf
+git clone https://github.com/kasderooi/ft_printf.git
+cd ft_printf
 make
 gcc -Wall -Werror -Wextra main.c libftprintf.a
 ./a.out
