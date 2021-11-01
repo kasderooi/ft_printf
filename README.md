@@ -1,7 +1,7 @@
 # ft_printf
 
+This is the third codam project I did.
 In this project I build a simplified version of the well know function ***printf***
-It's the third project I did at codam
 
 ## Project description
 
